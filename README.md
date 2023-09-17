@@ -1,24 +1,16 @@
-<h1>Minha Receita De Feijoada</h1>
+# Minha Receita De Feijoada
 
-<p>Estudando um pouco de HTML e CSS, decidi criar uma página simples de receita.</p>
+* Estudando um pouco de HTML e CSS, decidi criar uma página simples de receita.
 
-<h3>Tecnologias</h3>
+## Tecnologias
 
 <p>Este projeto foi desenvolvido com as seguintes tecnologias:</p>
 
-<ul>
-<li>HTML e CSS</li>
-<li>JavaScript</li>
-<li>Git e Github
-</li>
 
-</ul>
+* HTML e CSS
+* JavaScript
+* Git e Github
 
+### Você pode ver como ficou aqui :grin: 
 
-
-
-
-
-<a href="https://rodrigues19.github.io/receita-de-feijoada/">
-<p>Veja como ficou clicando aqui</p>
-</a>
+[Minha receita de Feijoada](https://rodrigues19.github.io/receita-de-feijoada/)
